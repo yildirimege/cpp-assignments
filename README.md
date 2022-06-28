@@ -1,2 +1,6 @@
 # cpp-assignments
-CPP Assignments for Every Level Where I Solve to Practice, Feel Free to Add your own questions.
+CPP Assignments for Each Level Where I Solve to Practice. Please Feel Free to Add your own questions.
+
+
+
+TODO: Group Assignments by Level.
